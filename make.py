@@ -3,7 +3,7 @@ import os
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-f = open(dir_path + '/njan-ninte-thantha.mp3', 'rb')
+f = open(dir_path + '/than-aara.mp3', 'rb')
 encoded = str(base64.b64encode(f.read()))
 f.close()
 
