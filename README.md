@@ -1,6 +1,6 @@
 # whoami
 
-Make whoami fun with the classic Mohanlal dialog
+Make whoami fun with the classic Kuthiravattom Pappu dialog
 
 ## Requirements
 
@@ -18,3 +18,7 @@ Make whoami fun with the classic Mohanlal dialog
   ln -s /home/$USER/Downloads/whoami ~/.local/bin/whoami
   ```
 * Open a new terminal and run `whoami`
+
+## Change Sound
+
+There are 2 mp3 files available. Pass which one to use in the variable inside `make.py`
