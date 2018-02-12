@@ -14,4 +14,4 @@ playsound.playsound(tmp_loc, True)
 
 t.close()
 
-os.system('/usr/bin/hostname')
+os.system('/bin/hostname')
