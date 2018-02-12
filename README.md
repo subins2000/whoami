@@ -19,6 +19,14 @@ Make whoami fun with the classic Kuthiravattom Pappu dialog
   ```
 * Open a new terminal and run `whoami`
 
-## Change Sound
+## Bonus
 
-There are 2 mp3 files available. Pass which one to use in the variable inside `make.py`
+A custom `whoareyou` command is included with sound of Mohanlal's dialog `Njan ninte thanthayaada thantha`.
+
+Make the file with : 
+
+```
+python3 make-whoareyou.py
+```
+
+Installation and running is the same as [whoami](#install)
