@@ -19,4 +19,4 @@ playsound.playsound(tmp_loc, True)
 
 t.close()
 
-os.system('/usr/bin/whoami')
+os.system('/usr/bin/hostname')
