@@ -7,7 +7,7 @@ f = open(dir_path + '/njan-ninte-thantha.mp3', 'rb')
 encoded = str(base64.b64encode(f.read()))
 f.close()
 
-f = open(dir_path + '/whoami.py', 'r')
+f = open(dir_path + '/whoareyou.py', 'r')
 program = f.read()
 f.close()
 
